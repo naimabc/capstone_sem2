@@ -2,14 +2,33 @@ body {
   background-color: rgb(185, 190, 242);
 }
 
-h1{
-    color: rgb(34, 11, 109);
-    text-align: center;
-    font-family:'Courier New', Courier, monospace;
+.header{
+  color: rgb(34, 11, 109);
+  text-align: center;
+  font-family:cursive;
 }
 
-h3{
-    color:rgb(65, 32, 171);
-    text-align: center;
-    font-family: 'Courier New', Courier, monospace;
+.bucketList{
+  font-family:'Courier New', Courier, monospace;  
+}
+
+.section{
+  color: rgb(114, 92, 186);
+  background-color:rgb(233, 231, 247);
+  margin: 20px;
+  padding: 10px;
+}
+
+.footer{
+  color: rgb(114, 92, 186);
+  text-align: center;
+  font-family: 'Courier New', Courier, monospace;
+  font-size: larger;
+  background-color: rgb(233, 231, 247);
+  margin: 5px;
+  padding: 1px;
+}
+
+#highlight{
+  background-color: aliceblue;
 }
