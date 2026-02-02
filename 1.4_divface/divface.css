@@ -1,0 +1,44 @@
+body{
+    background: yellow;
+}
+
+.eye{
+    background: white;
+    margin-left: 20px;
+    margin-top: 20px;
+    width: 100px;
+    height: 100px;
+    padding: 20px;
+    display: inline-block;
+
+}
+
+.pupil{
+    background: black;
+    width: 60px;
+    height: 60px;
+    display: inline-block;
+}
+
+.mouth{
+    background: black;
+    margin: 20px;
+    width: 270px;
+    height: 200px;
+    padding: 15px;
+}
+
+.teeth{
+    background: white;
+    width: 20px; height: 20px;
+    margin-right: 10px;
+    display: inline-block;
+}
+
+.tongue{
+    background-color: red;
+    width: 100px;
+    height: 100px;
+    margin-top: 90px;
+    margin-left: 80px;
+}
