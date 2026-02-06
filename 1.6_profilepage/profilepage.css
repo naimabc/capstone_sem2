@@ -1,0 +1,31 @@
+body{
+    background-color: #C5DFF8;
+    font-family: 'Courier New', Courier, monospace;
+    padding: 20px;
+}
+.heading{
+    color: #4A55A2;
+    border: #4A55A2;
+    border-style: dotted;
+    padding: 10px;
+    text-align: center;
+    font-family: cursive;
+    border-width: 3px;
+}
+.subheading{
+    color: #7895CB;
+    text-decoration: underline;
+    border: #7895CB;
+    border-style: dotted;
+    padding: 5px;
+    display: inline;
+}
+.profile-img{
+    width: 350px;
+    display: block;
+    margin: auto;
+    border-style: solid;
+    border-color:#7895CB;
+    border-width: 5px;
+    border-radius: 50px;
+}
